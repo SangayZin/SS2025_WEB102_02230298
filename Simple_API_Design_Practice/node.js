@@ -7,8 +7,8 @@ const http = require("http");
 // A sample array to store a student data
 // Consider this as a database for now
 const students = [
-    { id: 1, name: "Karma", age: 22 },
-    { id: 2, name: "Sonam", age: 26 }  
+    { id: 1, name: "sonam", age: 22 },
+    { id: 2, name: "Dorji", age: 26 }  
 ];
 
 // Create an HTTP server

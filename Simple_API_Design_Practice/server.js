@@ -7,12 +7,12 @@ const PORT = 3000; // Define the port number for the server
 
 // Step 2: Create a mock database (array of student objects)
 const students = [
-    { id: 1, name: "takchey", age: 24, course: "Software Engineering" },
-    { id: 2, name: "kchoeying", age: 22, course: "Computer Science" },
-    { id: 3, name: "motay", age: 21, course: "Information Technology" },
-    { id: 4, name: "menlam", age: 20, course: "Water Engineering" },
-    { id: 5, name: "cbaby", age: 19, course: "Civil Engineering" },
-    { id: 6, name: "buddha", age: 18, course: "Business Intelligence" }
+    { id: 1, name: "sangay", age: 24, course: "Software Engineering" },
+    { id: 2, name: "Tenzin", age: 22, course: "Computer Science" },
+    { id: 3, name: "Tshewang", age: 21, course: "Information Technology" },
+    { id: 4, name: "Dorji", age: 20, course: "Water Engineering" },
+    { id: 5, name: "BOB", age: 19, course: "Civil Engineering" },
+    { id: 6, name: "Norbu", age: 18, course: "Business Intelligence" }
 ];
 
 // Step 3: Create routes
